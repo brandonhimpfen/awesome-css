@@ -73,6 +73,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [PostCSS](https://postcss.org/) – Transform CSS with JavaScript plugins.
 - [CSS Stats](https://cssstats.com/) – Visualize and analyze your CSS.
 - [Can I use](https://caniuse.com/) – Browser support tables for modern CSS features.
+- [ColorTools](https://colorpicker.cx/) – Free browser color toolkit: CSS gradient builder, image color picker, and HEX/RGB/HSL/OKLCH converter with WCAG contrast checks.
 
 ## Inspiration
 
