@@ -1,4 +1,4 @@
-# Awesome CSS [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome CSS [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1031055145.svg)](https://doi.org/10.5281/zenodo.19673012)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -95,10 +95,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Web Performance](https://github.com/awesomelistsio/awesome-wpo)** – Optimize CSS for performance.
-- **[Awesome Web Accessibility](https://github.com/awesomelistsio/awesome-web-accessibility)** – CSS tools for accessibility.
-- **[Awesome Tailwind CSS](https://github.com/awesomelistsio/awesome-tailwindcss)** – Ecosystem around Tailwind CSS.
-- **[Awesome Design Systems](https://github.com/awesomelistsio/awesome-design-systems)** – Includes CSS-related systems and frameworks.
+- **[Awesome Web Performance](https://github.com/brandonhimpfen/awesome-wpo)** – Optimize CSS for performance.
+- **[Awesome Web Accessibility](https://github.com/brandonhimpfen/awesome-web-accessibility)** – CSS tools for accessibility.
+- **[Awesome Tailwind CSS](https://github.com/brandonhimpfen/awesome-tailwindcss)** – Ecosystem around Tailwind CSS.
+- **[Awesome Design Systems](https://github.com/brandonhimpfen/awesome-design-systems)** – Includes CSS-related systems and frameworks.
   
 ## Contribute
 
